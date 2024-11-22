@@ -78,7 +78,7 @@ criaCartao(
 
 criaCartao(
     'Serie',
-    'Em Stranger Things, qual é o nome da dimensão alternativa que os personagens vistam?',
+    'Em Stranger Things, qual é o nome da dimensão alternativa que os personagens visitam?',
     'A dimensão se chama Mundo Invertido (Upside Down)'
 )
 
